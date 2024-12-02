@@ -1,5 +1,5 @@
-![CI](https://github.com/github/docs/actions/workflows/ci.yml/badge.svg)
-![CD](https://github.com/github/docs/actions/workflows/cd.yml/badge.svg)
+![CI](https://github.com/Libraaa201/TP-CD/actions/workflows/ci.yml/badge.svg)
+![CD](https://github.com/Libraaa201/TP-CD/actions/workflows/cd.yml/badge.svg)
 
 # Hello!! This is a spring boot app!
 
