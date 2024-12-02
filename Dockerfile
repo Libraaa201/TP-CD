@@ -1,8 +1,8 @@
-FROM openjdk:21
-COPY . /usr/src/myapp
+FROM maven as builder
 WORKDIR /usr/src/myapp
+COPY . /usr/src/myapp
 
-RUN ./mvnw clean package
+RUN mvn clean package
 RUN mkdir /bin/app
 RUN mv target/tp-cd-2024-0.0.1-SNAPSHOT.jar /bin/app
 
