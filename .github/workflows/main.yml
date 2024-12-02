@@ -40,4 +40,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: adriendegand/java-app:main
+          tags: kylianrolin/java-app:main
