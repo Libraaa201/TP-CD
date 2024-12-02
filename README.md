@@ -1,3 +1,6 @@
+![CI](https://github.com/github/docs/actions/workflows/ci.yml/badge.svg)
+![CD](https://github.com/github/docs/actions/workflows/cd.yml/badge.svg)
+
 # Hello!! This is a spring boot app!
 
 This app is simple. It connects to a postgres database and says if the database works.
